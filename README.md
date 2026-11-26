@@ -11,7 +11,6 @@ images/
 
 ## Replace placeholders
 Open `index.html` and search for `REPLACE` (5 spots):
-- LinkedIn link (`id="linkedinLink"`)
 
 - 3 × "View Project" buttons
 
